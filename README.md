@@ -2,7 +2,6 @@
 
 ## 🏆 Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaestro11&show_icons=true&hide_title=true&count_private=true&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaestro11&layout=compact)
 
 ## 📈 GitHub Stats
